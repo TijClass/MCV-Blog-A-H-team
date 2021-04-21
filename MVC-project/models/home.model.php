@@ -4,6 +4,6 @@
 require "_classes/model.php";
 
 
-class product extends Model{
+class home extends Model{
     public $tableName;
 }
